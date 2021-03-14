@@ -1,0 +1,11 @@
+# similarity tf-idf
+pandas
+numpy
+nltk
+scikit-learn
+
+# similarity word2vec
+keras
+
+# Russian models
+navec
