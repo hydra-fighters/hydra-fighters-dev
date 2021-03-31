@@ -30,6 +30,9 @@ Similarity function: cosine distance (cosine of the angle between 2 vectors) / E
         - English pre-trained model (translate into English via API?): https://tfhub.dev/google/universal-sentence-encoder-large/5
         - Russian again: https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3 --> tutorial: https://d-salvaggio.medium.com/multilingual-universal-sentence-encoder-muse-f8c9cd44f171
 
+Try this: 
+- https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3
+- https://d-salvaggio.medium.com/multilingual-universal-sentence-encoder-muse-f8c9cd44f171
 
 ## Dependencies management
 1. Install conda (preferred over pip, because it handles binaries, which might be important for a ML project): https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
